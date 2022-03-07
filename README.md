@@ -16,4 +16,6 @@ Book My Show clone App using Flutter
 ## How it looks like 
 
 ![Screenshot_1646656647](https://user-images.githubusercontent.com/69889824/157052344-1e377818-d52b-463c-8b35-a84731ea0239.png)
+![Screenshot_1646663794](https://user-images.githubusercontent.com/69889824/157054724-3d724f04-5694-447a-a5f0-d44641cbf111.png)
+
 
