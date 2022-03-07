@@ -1,16 +1,19 @@
 # bookmyshowcloneapp
+Book My Show clone App using Flutter 
 
-A new Flutter project.
+## How to run the App
+1. Fork or download the project and extract it.
+2. Open Terminal / CMD and go to project directory
+3. Run the **pub get** command to install the dependencies
+4. Run the **flutter run** command to run the Application
+5. Choose emulator / Simulator or Chrome
 
-## Getting Started
+## Dependencies/Technology used
+1. Flutter
+2. GoogleFonts
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## How it looks like 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_1646656647](https://user-images.githubusercontent.com/69889824/157052344-1e377818-d52b-463c-8b35-a84731ea0239.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
